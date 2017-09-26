@@ -1,0 +1,6 @@
+title: civicly
+description: Democracy texts.
+
+markdown: kramdown
+plugins:
+  - jekyll-feed

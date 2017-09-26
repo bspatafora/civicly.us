@@ -1,0 +1,59 @@
+.wrapper {
+  margin: 0 auto;
+  width: 90%;
+
+  @include media-query($mobile-medium) {
+    width: 20em;
+  }
+
+  @include media-query($mobile-large) {
+    width: 22em;
+  }
+
+  @include media-query($tablet) {
+    width: 36em;
+  }
+
+  @include media-query($tablet) {
+    width: 40em;
+  }
+
+  @include media-query($laptop) {
+    width: 46em;
+  }
+}
+
+.logo {
+  letter-spacing: 0.05em;
+  margin-top: $spacing-unit * 2;
+}
+
+.mirror {
+  display: inline-block;
+  margin-left: -0.04em;
+  margin-right: 0.04em;
+  transform: scaleX(-1);
+}
+
+.title {
+  color: $gray-color;
+  margin-bottom: $spacing-unit * 2;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.centered {
+  text-align: center;
+}
+
+.emphasis {
+  border-bottom: 1px solid $gray-color;
+}
+
+footer {
+  font-size: $small-font-size;
+  margin-top: $spacing-unit * 2;
+  margin-bottom: $spacing-unit;
+}
