@@ -19,7 +19,7 @@
   }
 
   @include media-query($laptop) {
-    width: 46em;
+    width: 44em;
   }
 }
 
@@ -46,6 +46,10 @@
 
 .centered {
   text-align: center;
+}
+
+strong {
+  font-weight: 700;
 }
 
 .emphasis {
