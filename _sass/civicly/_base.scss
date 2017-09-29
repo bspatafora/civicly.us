@@ -70,3 +70,12 @@ ul {
 a {
   color: $text-color;
 }
+
+blockquote {
+  background-color: $light-gray-color;
+  padding: $spacing-unit ($spacing-unit * 1.5);
+
+  p {
+    margin-bottom: 0;
+  }
+}

@@ -4,43 +4,45 @@ title: Welcome
 permalink: /welcome/
 ---
 
-By joining civicly, you affirm the very idea of democracy. Thanks for taking the risk and deciding to put in the work.
+Welcome to civicly! Here is the information that you’ll need to participate.
 
-You also affirm you agree to the [terms][] and [privacy policy][]. Unlike most others, they’re meant to be read, so please do read them.
+## How does this work?
 
-This page describes civicly in more detail.
+  - 1 conversation at a time
+  - Each conversation lasts 4 days
+  - Every conversation happens via text messages that you and your partner both send
+    to civicly’s phone number
+  - civicly starts and ends the conversations for you
 
-## Rounds
+## What should I do now?
 
-  - civicly works in rounds. A round lasts four days. You’re connected for a 1:1 conversation with a new person each round.
-  - When a new round begins, you’ll receive a text message introducing you to your conversation partner.
-  - You and your partner will see each other’s names (e.g., Ben S), but not phone numbers.
-  - To talk to your partner, you send messages to civicly’s number, (630) 776-0985. The messages are automatically relayed to your partner’s phone.
+First, add “civicly” to your contacts. The number is the same one you received your
+welcome text message from: (630) 776-0985.
 
-## Commands
+Then, just sit tight! When the next round of conversations starts, you’ll get a text
+from civicly that will read something like this:
 
-  - At any time, you can send the special commands HELP and STOP. Each must be typed in all caps and with no spaces.
-  - HELP responds with some helpful info, and STOP deletes your account. STOP is immediate and permanent, so don’t send it unless you mean it.
-  - Commands that you send won’t be forwarded to your partner.
+> [civicly] Welcome to round 1. Say hello to Ben S! Here's a question: How are we
+doing, as a country?
 
-## civicly is an experiment
+Once you see the start message, you’re connected to your partner. For the next four
+days, any texts you send to civicly will be forwarded onto your partner (and vice versa).
+At the end of the four days, you’ll get another text informing you that the round is over
+and that you have been disconnected from your partner.
 
-  - If you have an idea to make it better, please share it!
-  - If you notice a bug, please share it!
-  - If something interesting happened in your conversation, share that too!
-  - You can email me at ben@civicly.us
+## Anything else I should know?
 
-## Miscellaneous
+By using civicly, you agree to the [terms][] and [privacy policy][]. Please read through
+them—they’re shorter than most. And the terms includes a “civic pact” to be mindful of
+during your conversations.
 
-  - Messages that you send are stored. I’m probably going to peruse (and eventually data-process) them to help figure out how to make civicly better. Just wanted to be upfront about this.
-  - If you haven’t already, please add (630) 776-0985 to your phone’s contacts under “civicly”.
-  - civicly is for dialog. Pictures and video messages are not supported. (Emoji are fair game, though!)
+You can text the word “STOP” to civicly to delete your account. It must be typed all-caps,
+as shown. This is immediate and permanent, so don’t send it unless you mean it!
 
-## Finally, a few reminders
-
-  - Attacking evokes defensiveness; better to ask, listen, offer.
-  - We can't get better if we're shut.
-  - Fortune favors the bold and curious.
+Finally—civicly is an experiment. It’s going to change over time, and there may be bugs
+along the way. If you experience any, please let me know. More importantly, if you have
+an idea about how to make civicly better, or just want to share your experience, please
+don’t hesitate to. You can reach me at ben@civicly.us
 
 [terms]: /terms
 [privacy policy]: /privacy
