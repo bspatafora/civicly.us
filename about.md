@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Democracy texts
+title: Democracy Texts
 permalink: /about/
 ---
 
