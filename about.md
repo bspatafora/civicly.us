@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Democracy texts.
+title: Democracy texts
 permalink: /about/
 ---
 
 We’ve become too divided as a country.
 
-civicly is a place for any American who thinks we can do better.
+civicly is a place for any American who believes we can do better.
 
 The idea is simple: Connect Americans for 1:1 conversations about our country, via
 text message. Here’s how it works:
 
-  - 1 conversation at a time
+  - One 1:1 conversation at a time
   - Each conversation lasts 4 days
-  - You send messages to civicly’s phone number
-  - civicly starts and ends conversations for you, and relays your messages to your
-    conversation partner
+  - Your conversations are sent through civicly’s phone number
+  - civicly starts and ends the conversations for you
 
 Joining is a commitment to be two things: civic and civil.
 

@@ -8,11 +8,10 @@ Welcome to civicly! Here’s everything you need to get started.
 
 ## How does this work?
 
-  - 1 conversation at a time
+  - One 1:1 conversation at a time
   - Each conversation lasts 4 days
-  - You send messages to civicly’s phone number
-  - civicly starts and ends conversations for you, and relays your messages to your
-    conversation partner
+  - Your conversations are sent through civicly’s phone number
+  - civicly starts and ends the conversations for you
 
 ## What should I do now?
 
