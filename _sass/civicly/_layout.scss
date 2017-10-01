@@ -30,13 +30,13 @@
 
 .mirror {
   display: inline-block;
-  margin-left: -0.04em;
+  margin-left: -0.05em;
   margin-right: 0.04em;
   transform: scaleX(-1);
 }
 
 .title {
-  color: $gray-color;
+  color: $color;
   margin-bottom: $spacing-unit * 2;
 }
 
@@ -53,7 +53,7 @@ strong {
 }
 
 .emphasis {
-  border-bottom: 1px solid $gray-color;
+  border-bottom: 1px solid $color;
 }
 
 footer {
