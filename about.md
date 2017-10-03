@@ -23,3 +23,5 @@ partner, and to listen to their thoughts in turn. Every American has a different
 background and a unique perspective. And we all want our country to succeed.
 
 We have everything to gain by talking with one another.
+
+> civicly is in beta. Email ben@civicly.us for information on joining.
