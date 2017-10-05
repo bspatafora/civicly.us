@@ -5,7 +5,7 @@
   margin-bottom: $spacing-unit * 2.5;
   margin-right: auto;
   margin-left: auto;
-  width: 18em;
+  width: 19em;
 
   @include media-query($mobile-medium) {
     width: 20em;
@@ -22,7 +22,7 @@
   @include media-query($tablet) {
     margin-top: $spacing-unit * 2;
     margin-bottom: $spacing-unit * 3;
-    width: 32em;
+    width: 30em;
   }
 }
 
@@ -45,7 +45,7 @@
 #points {
   list-style: none;
   margin-bottom: 0;
-  margin-left: $spacing-unit / 1.5;
+  margin-left: $spacing-unit / 2;
 
   @include media-query($mobile-medium) {
     margin-left: $spacing-unit;
