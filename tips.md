@@ -6,6 +6,8 @@ permalink: /tips/
 
 Here are some tips for getting the most out of civicly.
 
+(There’s also the [F.A.Q.][])
+
 ### Ask questions!
 
 civicly sends out questions and news headlines to help things along but, ultimately,
@@ -40,3 +42,5 @@ that our democracy would be strengthened if we all made a habit of having small,
 serendipitous civic conversations with our fellow citizens.
 
 And remember: At the end of the day, we’re all on the same team.
+
+[F.A.Q.]: /faq

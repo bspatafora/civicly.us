@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Democracy Texts
+title: Democracy texts
 permalink: /about/
 ---
 
@@ -24,4 +24,8 @@ background and a unique perspective. And we all want our country to succeed.
 
 We have everything to gain by talking with one another.
 
-> civicly is in beta. Email ben@civicly.us for information on joining.
+> civicly is in beta. Email [ben@civicly.us][] to join, or visit the [F.A.Q.][] for
+  more information.
+
+[ben@civicly.us]: mailto:ben@civicly.us
+[F.A.Q.]: /faq

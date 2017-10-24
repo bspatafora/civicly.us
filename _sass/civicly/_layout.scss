@@ -56,6 +56,35 @@ strong {
   font-weight: 700;
 }
 
+.section {
+  @include relative-font-size(2.75);
+
+  @include media-query($mobile-large) {
+    @include relative-font-size(3.5);
+  }
+}
+
+.question {
+  @include relative-font-size(1.6);
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+
+  @include media-query($mobile-large) {
+    @include relative-font-size(2);
+  }
+}
+
+.answer p {
+  @include relative-font-size(1);
+
+  @include media-query($mobile-large) {
+    @include relative-font-size(1.25);
+  }
+}
+
 .emphasis {
   border-bottom: 1px solid $color;
 }
