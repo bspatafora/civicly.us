@@ -4,43 +4,39 @@ title: Tips
 permalink: /tips/
 ---
 
-Here are some tips for getting the most out of civicly.
+Here are 5 tips for getting the most out of civicly.
 
-(There’s also the [F.A.Q.][])
+For more info, including the basics, there’s also an [F.A.Q.][]
 
-### Ask questions!
+### 1. Say hello!
 
-civicly sends out questions and news headlines to help things along but, ultimately,
-what you get out of a conversation is up to you. Don’t hesitate to ask your partner
-for their take on something in the news, or their thoughts on a particular issue.
+Simple, but powerful.
 
-Make it your goal to learn one thing from every person you talk to.
+### 2. Ask a question
 
-### Go for understanding
+civicly sends you a prompt at the beginning of your conversation, but this is just
+a starting point. Never hesitate to ask your partner for their thoughts on
+something. The world is a complicated place, and we can only make sense of it
+together.
 
-If you find you disagree with someone, don’t immediately start trying to change
-their view. It’s essential to first try to *understand* their view (after all,
-you’re asking them to try to understand yours). Ask questions.
+### 3. Go for understanding
 
-Make sure you listen to what your partner is saying rather than sticking to
-assumptions about what they think and why.
+Civic conversation can prompt disagreement. This is OK! Disagreement is a feature
+of democracy, and it doesn’t have to lead to a fight. When it happens, make it
+your goal to understand what your partner thinks (not what you think they think)
+and *why* they think it. Wouldn’t you ask the same of them?
 
-### Reply on your time
+And remember—at the end of the day, we’re all on the same team!
 
-If you’re feeling overwhelmed by civicly, you’re doing it wrong! It’s okay not to
-respond to every message as soon as you receive it. We all have our own lives and
-our own schedules. Think of you and your conversation partner a little like pen
-pals—there may be a delay in getting back to each other. When you get a message,
-make a mental note to respond to it when you have a few minutes of downtime.
+### 4. Reply on your time
 
-Figure out how civicly fits into your schedule.
+civicly should never feel like a burden. If you can’t respond to a message right
+away, that’s OK! We all have different schedules. Think of your partner a little
+like a pen pal—there will usually be some delay in getting back to one another.
 
-### Stick with it
+### 5. Stick with it
 
-civicly is less about what happens in any one conversation, and more about the belief
-that our democracy would be strengthened if we all made a habit of having small,
-serendipitous civic conversations with our fellow citizens.
-
-And remember: At the end of the day, we’re all on the same team.
+civicly is less about any one conversation, and much more about the cumulative
+effect of all the conversations you will have over time.
 
 [F.A.Q.]: /faq
